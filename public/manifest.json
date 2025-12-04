@@ -1,0 +1,20 @@
+{
+  "name": "HyvenTech - Enterprise Digital Transformation",
+  "short_name": "HyvenTech",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0C2B4E",
+  "theme_color": "#0C2B4E",
+  "orientation": "portrait-primary",
+  "description": "Transforming businesses with cutting-edge solutions in ERP, AI, web development, and technical excellence.",
+  "categories": ["business", "technology", "productivity"],
+  "icons": [
+    {
+      "src": "/src/assets/Logo/Assets-21 (1).png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
